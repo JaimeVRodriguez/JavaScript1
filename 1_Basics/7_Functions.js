@@ -1,3 +1,5 @@
+
+// Performing a Task
 function greet() {
     console.log('Hello World');
 }
@@ -12,3 +14,13 @@ function realGreeting(name) {
 }
 // "name" is the ARGUMENT when using the function
 realGreeting('Jaime')
+
+
+
+// Calculating a value
+function square(number) {
+    return number * number;
+}
+
+let squaredNumber = square(2)
+console.log(number)
