@@ -1,3 +1,4 @@
+// Show all primes with "limit" number
 
 function showPrimes(limit) {
 
